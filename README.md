@@ -2,7 +2,7 @@
 
 A personal project to learn and practice using dbt (data build tool) with Redshift.
 
-## 📚 What I Learned Today
+## 📚 Project Overview
 
 ### dbt 프로젝트 구성
 
